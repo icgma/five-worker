@@ -7,7 +7,7 @@
 * **节点导入说明**：
     * **Shadowsocks**：无法直接导入，需查看生成的节点信息后手动配置。
     * **Socks5**：导入后信息可能不完整，需手动补充配置。
-    * [Shadowsocks配置图示](Shadowsocks.jpg)
+    * ![Shadowsocks配置图示](Shadowsocks.jpg)
 * **初始密码**：初次部署后访问 Worker/page 地址，会自动弹出设置密码的界面,用于生成动态UUID，TROJAN等密码，需设置KV，名称为KV。
 * **访问密码**：初次部署后访问 Worker/page 地址，编辑配置页面可以设置访问密码，用于保护节点配置信息不会被别人随意修改，需设置KV。
 ### 路径功能

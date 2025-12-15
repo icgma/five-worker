@@ -1,0 +1,6 @@
+name = "my-worker-project"
+main = "_worker.js"  # <--- CRITICAL: Change this to point to your actual worker file
+compatibility_date = "2024-12-02"
+
+# If you are using TypeScript, this might be "src/index.ts"
+# If your file is in the root, it might just be "worker.js"

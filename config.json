@@ -1,0 +1,29 @@
+{
+  "UUID": "8c9a6f0d-bcdf-59f5-8b11-fb8d65686bc8",
+  "KEY": "88c9a6f0d",
+  
+  "TIME": "99999",
+  "UPTIME": "0",
+
+  "PROXYIP": "",
+  "DNS64": "64:ff9b::/96",
+  "SOCKS5": "",
+  "GO2SOCKS5": "",
+  "BAN": "",
+
+  "URL302": "",
+  "URL": "",
+
+  "SUBNAME": "MyWorkerSub",
+  "ADD": "[www.visa.com](https://www.visa.com).tw:443#台湾Visa, [2606:4700::]:443#IPv6官方",
+  "ADDAPI": "[https://raw.githubusercontent.com/username/repo/main/ips.txt](https://raw.githubusercontent.com/username/repo/main/ips.txt)",
+  "ADDNOTLS": "[www.visa.com](https://www.visa.com).sg:80#新加坡非TLS",
+  "ADDNOTLSAPI": "",
+  "ADDCSV": "[https://raw.githubusercontent.com/username/repo/main/speed.csv](https://raw.githubusercontent.com/username/repo/main/speed.csv)",
+  "LINK": "vless://..., vmess://...",
+  
+  "CFPORTS": "443, 8443, 2053, 2083, 2087, 2096",
+  "DLS": "8",
+  "CSVREMARK": "1",
+  "EX": "false"
+}

@@ -58,11 +58,11 @@
   "URL": "",
 
   "SUBNAME": "MyWorkerSub",
-  "ADD": "[www.visa.com](https://www.visa.com).tw:443#台湾Visa, [2606:4700::]:443#IPv6官方",
-  "ADDAPI": "[https://raw.githubusercontent.com/username/repo/main/ips.txt](https://raw.githubusercontent.com/username/repo/main/ips.txt)",
-  "ADDNOTLS": "[www.visa.com](https://www.visa.com).sg:80#新加坡非TLS",
+  "ADD": "www.visa.com.tw:443#台湾Visa, [2606:4700::]:443#IPv6官方",
+  "ADDAPI": "https://raw.githubusercontent.com/username/repo/main/ips.txt",
+  "ADDNOTLS": "www.visa.com.sg:80#新加坡非TLS",
   "ADDNOTLSAPI": "",
-  "ADDCSV": "[https://raw.githubusercontent.com/username/repo/main/speed.csv](https://raw.githubusercontent.com/username/repo/main/speed.csv)",
+  "ADDCSV": "https://raw.githubusercontent.com/username/repo/main/speed.csv",
   "LINK": "vless://..., vmess://...",
   
   "CFPORTS": "443, 8443, 2053, 2083, 2087, 2096",
